@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845732911963",
+    "firebase_url": "https://anichat-6ea97.firebaseio.com",
+    "project_id": "anichat-6ea97",
+    "storage_bucket": "anichat-6ea97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845732911963:android:e8bf8160ea96819e26987e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_anichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845732911963-hg4qghuqdpgkcoclpu5ph2hpmceiav9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_anichat",
+            "certificate_hash": "456a219faa3b9ff3ef523a63708697118978db01"
+          }
+        },
+        {
+          "client_id": "845732911963-sv7d42n7ccc0ck49a7oate4n1lnlt7u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwfBpfeDXohtc4L0ehKg9EkALVGKbCBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845732911963-sv7d42n7ccc0ck49a7oate4n1lnlt7u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
